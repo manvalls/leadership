@@ -3,8 +3,8 @@ package leadership
 import (
 	"testing"
 
-	"github.com/abronan/libkv/store"
-	libkvmock "github.com/abronan/libkv/store/mock"
+	"github.com/manvalls/libkv/store"
+	libkvmock "github.com/manvalls/libkv/store/mock"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )
