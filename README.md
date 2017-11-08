@@ -3,7 +3,7 @@
 Leadership is a library for a cluster leader election on top of a distributed
 Key/Value store.
 
-It is built using the `docker/libkv` library and is designed to work across multiple
+It is built using the `abronan/libkv` library and is designed to work across multiple
 storage backends.
 
 You can use `leadership` with `Consul`, `etcd` and `Zookeeper`.
